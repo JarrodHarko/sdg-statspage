@@ -27,7 +27,7 @@ function App() {
     marcus: { img: "/marcus.png", text: "Marcus 'The Trash Man' 2025 MVP" },
     jake:   { img: "/jake.png",   text: "Jake 'Jonk' Upfield 2021 MVP" },
     jarrod: { img: "/jarrod.png", text: "Jarrod 'Naughty Auty' Harkin 2022 MVP" },
-    john:   { img: "/john.png",   text: "John 'John' 2023 MVP" },
+    john:   { img: "/John.png",   text: "John 'John' 2023 MVP" },
     alex:   { img: "/alex.png",   text: "Alex 'Foreskinless' 2024 MVP" },
   };
 
